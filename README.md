@@ -38,6 +38,12 @@ Some skills call other skills. Install these together:
 ## What this mirror changes
 
 Many skills were Cursor-specific. They've been rewritten to work in any harness.
+
+## Soliwkr operating role
+
+In the Soliwkr system, pstack is the engineering constitution for agents that change AIOS, BLACK OFFICE, and the assets BLACK OFFICE operates. It governs how software changes are investigated, designed, verified, reviewed, and shipped. It does not grant BLACK OFFICE authority to rewrite its own source code.
+
+See [SOLIWKR-OPERATING-CHARTER.md](./SOLIWKR-OPERATING-CHARTER.md) for the hierarchy of authority, self-improvement boundaries, measurement ethics, and the relationship between AIOS, BLACK OFFICE, pstack, and Cloudflare.
 <!-- mirror:end -->
 
 ---
